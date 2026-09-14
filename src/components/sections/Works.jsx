@@ -28,7 +28,7 @@ const PROJECTS = [
   {
     id: '02',
     title: 'An Gha',
-    subtitle: 'Autumn Atelier — Fashion Showcase',
+    subtitle: 'Womens Fashion E-Commerce Platform',
     badge: 'WORKS',
     image: '/images/angha.png',
     description:
