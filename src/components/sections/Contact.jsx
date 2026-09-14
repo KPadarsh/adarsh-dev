@@ -143,7 +143,7 @@ export default function Contact() {
 
         {/* Card 3: GitHub */}
         <a
-          href="https://github.com/adarshak1128"
+          href="https://github.com/KPadarsh"
           target="_blank"
           rel="noopener noreferrer"
           className="p-space-md border border-outline-variant/40 rounded bg-surface-container-low hover:border-primary/40 hover:bg-surface-container-lowest transition-all group flex items-center justify-between"
@@ -154,7 +154,7 @@ export default function Contact() {
             </div>
             <div>
               <span className="font-label-sm text-label-sm text-primary font-semibold block">GitHub</span>
-              <span className="font-mono-tag text-[11px] text-outline">@adarshak1128</span>
+              <span className="font-mono-tag text-[11px] text-outline">@KPadarsh</span>
             </div>
           </div>
           <ArrowUpRight className="w-4 h-4 text-outline group-hover:text-primary group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all" />
@@ -162,7 +162,7 @@ export default function Contact() {
 
         {/* Card 4: LinkedIn */}
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/kp-adarsh"
           target="_blank"
           rel="noopener noreferrer"
           className="p-space-md border border-outline-variant/40 rounded bg-surface-container-low hover:border-secondary/40 hover:bg-surface-container-lowest transition-all group flex items-center justify-between"
@@ -173,7 +173,7 @@ export default function Contact() {
             </div>
             <div>
               <span className="font-label-sm text-label-sm text-primary font-semibold block">LinkedIn</span>
-              <span className="font-mono-tag text-[11px] text-outline">Adarsh K P</span>
+              <span className="font-mono-tag text-[11px] text-outline">kp-adarsh</span>
             </div>
           </div>
           <ArrowUpRight className="w-4 h-4 text-outline group-hover:text-secondary group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all" />

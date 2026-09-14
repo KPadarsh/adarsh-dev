@@ -23,7 +23,7 @@ const PROJECTS = [
       'Tailwind CSS',
     ],
     liveUrl: '#',
-    githubUrl: 'https://github.com/adarshak1128',
+    githubUrl: 'https://github.com/KPadarsh',
   },
   {
     id: '02',
@@ -42,7 +42,7 @@ const PROJECTS = [
       'Tailwind CSS',
     ],
     liveUrl: '#',
-    githubUrl: 'https://github.com/adarshak1128',
+    githubUrl: 'https://github.com/KPadarsh',
   },
 ];
 
