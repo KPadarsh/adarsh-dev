@@ -11,7 +11,7 @@ const PROJECTS = [
     title: 'Fragranzia',
     subtitle: 'E-Commerce Perfume Platform',
     badge: 'WORKS',
-    image: '/images/fragranzia.png',
+    image: '/images/fragranzia_preview.png',
     description:
       'Full-stack perfume e-commerce web application with responsive UI, complete product catalog, shopping cart, and persistent order flow. Implemented JWT-based authentication/authorization, secure password hashing with bcrypt, Cloudinary media storage, and comprehensive RESTful CRUD APIs with Express and MongoDB.',
     technologies: [
@@ -30,7 +30,7 @@ const PROJECTS = [
     title: 'An Gha',
     subtitle: 'Womens Fashion E-Commerce Platform',
     badge: 'WORKS',
-    image: '/images/angha.png',
+    image: '/images/angha_preview.png',
     description:
       'Frontend fashion catalog and e-commerce UI concept developed with Next.js and TypeScript. Features high-editorial lookbooks, category-based product navigation, interactive collection cards, and responsive styling with curated dummy assets.',
     technologies: [
