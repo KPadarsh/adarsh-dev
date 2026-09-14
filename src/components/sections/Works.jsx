@@ -27,12 +27,12 @@ const PROJECTS = [
   },
   {
     id: '02',
-    title: 'Task Matrix',
-    subtitle: 'MERN Task Management Workspace',
+    title: 'Angha',
+    subtitle: 'Autumn Atelier — Fashion E-Commerce',
     badge: 'WORKS',
-    image: '/images/taskmatrix.png',
+    image: '/images/angha.png',
     description:
-      'Full-stack task management application implementing complete CRUD operations with real-time responsive UI state. Features Express and Node.js RESTful API layer backed by MongoDB document storage with clean React component hierarchy and instantaneous optimistic updates.',
+      'Full-stack fashion e-commerce and catalog platform featuring dynamic collections, category filtering, detailed product showcases, responsive shopping cart, and modern editorial aesthetics. Engineered with full RESTful APIs and MongoDB database integration.',
     technologies: [
       'React.js',
       'Node.js',
