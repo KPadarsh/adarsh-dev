@@ -74,6 +74,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2.5">
           <a
             href="/resume.pdf"
+            download="Adarsh_KP_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-outline-variant hover:border-primary font-label-sm text-label-sm text-primary hover:bg-surface-container-low transition-all"
@@ -134,6 +135,7 @@ export default function Navbar() {
             <div className="pt-2 border-t border-outline-variant/30 mt-1 flex items-center justify-between">
               <a
                 href="/resume.pdf"
+                download="Adarsh_KP_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={closeMenu}
