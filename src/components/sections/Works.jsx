@@ -22,8 +22,8 @@ const PROJECTS = [
       'JWT Auth',
       'Tailwind CSS',
     ],
-    liveUrl: '#',
-    githubUrl: 'https://github.com/KPadarsh',
+    liveUrl: 'https://fragranzia-zeta.vercel.app',
+    githubUrl: 'https://github.com/KPadarsh/Fragranzia',
   },
   {
     id: '02',
@@ -40,8 +40,8 @@ const PROJECTS = [
       'Tailwind CSS',
       'Responsive Design',
     ],
-    liveUrl: '#',
-    githubUrl: 'https://github.com/KPadarsh',
+    liveUrl: 'https://angha.vercel.app',
+    githubUrl: 'https://github.com/KPadarsh/an-gha-fashion-store',
   },
 ];
 
