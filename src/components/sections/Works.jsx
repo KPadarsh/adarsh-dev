@@ -28,18 +28,17 @@ const PROJECTS = [
   {
     id: '02',
     title: 'Angha',
-    subtitle: 'Autumn Atelier — Fashion E-Commerce',
+    subtitle: 'Autumn Atelier — Fashion Showcase',
     badge: 'WORKS',
     image: '/images/angha.png',
     description:
-      'Full-stack fashion e-commerce and catalog platform featuring dynamic collections, category filtering, detailed product showcases, responsive shopping cart, and modern editorial aesthetics. Engineered with full RESTful APIs and MongoDB database integration.',
+      'Frontend fashion catalog and e-commerce UI concept developed with Next.js and TypeScript. Features high-editorial lookbooks, category-based product navigation, interactive collection cards, and responsive styling with curated dummy assets.',
     technologies: [
+      'Next.js',
+      'TypeScript',
       'React.js',
-      'Node.js',
-      'Express.js',
-      'MongoDB',
-      'RESTful APIs',
       'Tailwind CSS',
+      'Responsive Design',
     ],
     liveUrl: '#',
     githubUrl: 'https://github.com/KPadarsh',
